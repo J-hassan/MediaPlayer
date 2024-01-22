@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Hamd",
+        "image": "image.jpg",
+        "audio": "/naats/hamd.mp3"
+    },
+    {
+        "title": "Ma Band-a-asii ho...",
+        "image": "image.jpg",
+        "audio": "/naats/ba.mp3"
+    },
+    {
+        "title": "Hal-e-Dil",
+        "image": "image.jpg",
+        "audio": "/naats/haledil.mp3"
+    },
+    {
+        "title": "Kabhi Mayoos Mat hona",
+        "image": "image.jpg",
+        "audio": "/naats/km.mp3"
+    }    
+]
